@@ -1,0 +1,28 @@
+heder{
+    color: #f72585;
+    text-align: center;
+    font-size: 40px;
+     }
+
+body{
+    text-align: center;
+}
+
+nav a{
+    background-color: #3f3f39;
+    border-radius: 10px 0 10px 0;
+    color:#fff;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+
+section{
+    float: center;
+    color:#3f3f39;
+    border-radius: 5px;
+    border: 1px solid #3f3f39;
+    margin-bottom: 15px;
+    padding: 15px;
+}
